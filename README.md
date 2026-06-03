@@ -15,8 +15,9 @@ A self-managed, production-grade homelab running on repurposed hardware. Built t
 
 ## Architecture Overview
 
+<img width="1440" height="1640" alt="image" src="https://github.com/user-attachments/assets/c187b901-1921-4240-892b-218cfdcb1db3" />
+
 ```
-<img width="1440" height="1640" alt="image" src="https://github.com/user-attachments/assets/f56aa5f7-c846-408c-9547-dfb6e15b94f6" />
 
 Internet
     │
